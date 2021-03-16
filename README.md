@@ -1,7 +1,7 @@
 ![Hey there, I'm Ali. I'm a software developer](https://github.com/alikadir/alikadir/blob/main/js.png)
 
 
-For 14 years, I have been working as a Software Developer. I took part in many different projects and teams, and I had the opportunity to gain valuable experiences using different technologies.
+For 14 years, I have been working in different roles such as Software Developer, Software Architect or Software Team Lead. I took part in many different projects and teams, and I had the opportunity to gain valuable experiences using different technologies.
 
 I have been working with Cloud and JavaScript technologies for the past six years.
 Technologies I enjoy using,
