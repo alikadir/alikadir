@@ -1,8 +1,8 @@
 ![Hey there, I'm Ali. I'm a software developer](https://github.com/alikadir/alikadir/blob/main/js.png)
 
-For 15 years, I have been working in different roles such as Software Developer, Software Architect and Software Team Leader. I took part in many different projects and teams, and I had the opportunity to gain valuable experiences using different technologies.
+For 15 years, I have been working in different roles such as **Software Developer**, **Software Architect** and **Software Team Leader**. I took part in many different projects and teams, and I had the opportunity to gain valuable experiences using different technologies.
 
-I have been working with Cloud and JavaScript (Frontend, Backend, Mobile) technologies for the past seven years.
+I have been working with Cloud and JavaScript (**Frontend**, **Backend**, **Mobile**) technologies for the past seven years.
 I'm hands-on coding currently on,
 
 - React
@@ -19,10 +19,10 @@ I'm hands-on coding currently on,
 
 and of course,
 
-- AWS (API Gateway, Lambda, S3, DynamoDB, CloudFront, CloudWatch, Amplify, AWS-SAM)
-- Firebase
-- Azure DevOps (CI-CD Pipelines)
-- DigitalOcean Cloud (Linux - Droplets, Horizontal Scaling, Load Balancing, Nginx, Firewalls, DNS)
-- Figma (Design & Prototype Tool)
+- **AWS** (API Gateway, Lambda, S3, DynamoDB, CloudFront, CloudWatch, Amplify, AWS-SAM)
+- **Firebase**
+- **Azure DevOps** (CI-CD Pipelines)
+- **DigitalOcean Cloud** (Linux - Droplets, Horizontal Scaling, Load Balancing, Nginx, Firewalls, DNS)
+- **Figma** (Design & Prototype Tool)
 
 Additionally, I have strong experience (+7 years) in Microsoft technologies like C#, TypeScript, MsSQL, Entity Framework, .Net Core and Asp.Net MVC.
