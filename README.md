@@ -26,3 +26,11 @@ and of course,
 - **Figma** (Design & Prototype Tool)
 
 Additionally, I have strong experience (+7 years) in Microsoft technologies like C#, TypeScript, MsSQL, Entity Framework, .Net Core and Asp.Net MVC.
+
+## ☕️ How to reach me
+
+You can find and get in touch with me on below accounts!
+
+[![Linkedin Badge](https://img.shields.io/badge/alikadir-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alikadir/)
+
+[![Twitter Badge](https://img.shields.io/badge/alikadirjs-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/alikadirjs/)
