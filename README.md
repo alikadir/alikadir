@@ -2,31 +2,30 @@
 
 For **15** years, I have been working in different roles such as **Software Developer**, **Software Architect** and **Software Team Leader**. I took part in many different projects and teams, and I had the opportunity to gain valuable experiences using different technologies.
 
-I have been working with Cloud and JavaScript (**Frontend**, **Backend**, **Mobile**) technologies for the past seven years.
+I have been working with Cloud and JavaScript (**Mobile**, **Frontend**, **Backend**) technologies for the past 7 years.
 I'm hands-on coding currently on,
 
 - React
-- Redux / Saga
+- Redux
+- React Native
 - NextJS
 - Tailwind CSS
 - NodeJS
 - MongoDB
 - Elasticsearch
 - Redis
-- GraphQL
-- React Native
+- GraphQL / Rest Api
 - Ionic Framework
 
 and of course,
 
 - **AWS** (API Gateway, Lambda, S3, DynamoDB, CloudFront, CloudWatch, Amplify, AWS-SAM)
-- **Firebase**
+- **Firebase** / **AppCenter**
 - **Azure DevOps** (CI-CD Pipelines)
 - **DigitalOcean Cloud** (Linux - Droplets, Horizontal Scaling, Load Balancing, Nginx, Firewalls, DNS)
 - **Figma** (Design & Prototype Tool)
 
-Additionally, I have strong experience (+7 years) in Microsoft technologies like C#, TypeScript, MsSQL, Entity Framework, .Net Core and Asp.Net MVC.
-
+Additionally, I have strong experience (+7 years) in Object-Oriented Programing and Microsoft technologies like C#, TypeScript, SQL Server, Entity Framework, .Net Core, and Asp.Net MVC.
 ## ☕️ How to reach me
 
 You can find and get in touch with me on below accounts!
