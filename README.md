@@ -25,7 +25,7 @@ and of course,
 - **DigitalOcean Cloud** (Linux - Droplets, Horizontal Scaling, Load Balancing, Nginx, Firewalls, DNS)
 - **Figma** (Design & Prototype Tool)
 
-Additionally, I have strong experience (+7 years) in Object-Oriented Programing and Microsoft technologies like C#, TypeScript, SQL Server, Entity Framework, .Net Core, and Asp.Net MVC.
+Additionally, I have strong experience (+7 years) in Object-Oriented Programing and Microsoft technologies like C#, TypeScript, Ms SQL Server, Entity Framework, .Net Core, and Asp.Net MVC.
 ## ☕️ How to reach me
 
 You can find and get in touch with me on below accounts!
