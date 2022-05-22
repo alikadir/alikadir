@@ -9,7 +9,6 @@ I'm hands-on coding currently on,
 - Redux
 - React Native
 - NextJS
-- Tailwind CSS
 - NodeJS
 - MongoDB
 - Elasticsearch
