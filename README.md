@@ -2,7 +2,7 @@
 
 For **15** years, I have been working in different roles such as **Software Developer**, **Software Architect** and **Software Team Leader**. I took part in many different projects and teams, and I had the opportunity to gain valuable experiences using different technologies.
 
-I have been working with Cloud and JavaScript (**Mobile**, **Frontend**, **Backend**) technologies for the past 7 years.
+I have been working with Cloud and JavaScript (**Mobile**, **Frontend**, **Backend**) technologies for the past 8 years.
 I'm hands-on coding currently on,
 
 - React
