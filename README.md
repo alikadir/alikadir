@@ -14,7 +14,7 @@ I'm hands-on coding currently on,
 - Elasticsearch
 - Redis
 - GraphQL / Rest Api
-- Ionic Framework
+- Docker
 
 and of course,
 
