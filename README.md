@@ -8,8 +8,10 @@ I'm hands-on coding currently on,
 - React
 - Redux
 - React Native
+- NestJS
 - NextJS
 - NodeJS
+- Kafka / Microservices
 - MongoDB
 - Elasticsearch
 - Redis
@@ -19,8 +21,8 @@ I'm hands-on coding currently on,
 and of course,
 
 - **AWS** (API Gateway, Lambda, S3, DynamoDB, CloudFront, CloudWatch, Amplify, AWS-SAM)
-- **Firebase** / **AppCenter**
-- **Azure DevOps** (CI-CD Pipelines)
+- **AppCenter** / **Azure DevOps** / **GitLab CI/CD** / **Github Actions**
+- **Firebase**
 - **DigitalOcean Cloud** (Linux - Droplets, Horizontal Scaling, Load Balancing, Nginx, Firewalls, DNS)
 - **Figma** (Design & Prototype Tool)
 
