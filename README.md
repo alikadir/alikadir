@@ -12,10 +12,10 @@ I'm hands-on coding currently on,
 - NextJS
 - NodeJS
 - Kafka / Microservices
-- MongoDB
+- MongoDB / PostgreSQL
 - Elasticsearch
 - Redis
-- GraphQL / Rest Api
+- GraphQL / Rest API
 - Docker / Linux / Nginx
 
 and of course,
