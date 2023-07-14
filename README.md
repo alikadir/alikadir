@@ -11,7 +11,7 @@ I'm hands-on coding currently on,
 - NestJS
 - NextJS
 - NodeJS
-- Kafka / Microservices
+- Kafka / Microservices / Kubernetes
 - MongoDB / PostgreSQL
 - Elasticsearch
 - Redis
