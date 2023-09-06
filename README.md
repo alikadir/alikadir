@@ -1,8 +1,8 @@
 ![Hey there, I'm Ali. I'm a software developer](https://github.com/alikadir/alikadir/blob/main/js.png)
 
-For **15** years, I have been working in different roles such as **Software Developer**, **Software Architect** and **Technical Lead**. I took part in many different projects and teams, and I had the opportunity to gain valuable experiences using different technologies.
+For **16** years, I have been working in different roles such as **Software Developer**, **Software Architect** and **Technical Lead**. I took part in many different projects and teams, and I had the opportunity to gain valuable experiences using different technologies.
 
-I have been working with Cloud and JavaScript (**Mobile**, **Frontend**, **Backend**) technologies for the past 8 years.
+I have been working with Cloud and JavaScript (**Mobile**, **Frontend**, **Backend**) technologies for the past **9** years.
 I'm hands-on coding currently on,
 
 - React
@@ -11,7 +11,7 @@ I'm hands-on coding currently on,
 - NestJS
 - NextJS
 - NodeJS
-- Kafka / Microservices / Kubernetes
+- Kafka / Microservices / Kubernetes / Helm Charts
 - MongoDB / PostgreSQL
 - Elasticsearch
 - Redis
