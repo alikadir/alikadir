@@ -21,7 +21,7 @@ I'm hands-on coding currently on,
 and of course,
 
 - **AWS** (API Gateway, Lambda, S3, DynamoDB, CloudFront, CloudWatch, Amplify, AWS-SAM)
-- **AppCenter** / **Azure DevOps** / **GitLab CI/CD** / **Github Actions**
+- **AppCenter** / **Azure DevOps** / **GitLab CI-CD** / **Github Actions**
 - **Firebase**
 - **DigitalOcean Cloud** (Linux - Droplets, Horizontal Scaling, Load Balancing, Nginx, Firewalls, DNS)
 - **Figma** (Design & Prototype Tool)
