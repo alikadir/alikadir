@@ -1,6 +1,6 @@
 ![Hey there, I'm Ali. I'm a software developer](https://github.com/alikadir/alikadir/blob/main/js.png)
 
-For **16** years, I have been working in different roles such as **Software Developer**, **Software Architect** and **Technical Lead**. I took part in many different projects and teams, and I had the opportunity to gain valuable experiences using different technologies.
+For **17** years, I have been working in different roles such as **Software Developer**, **Software Architect** and **Technical Lead**. I took part in many different projects and teams, and I had the opportunity to gain valuable experiences using different technologies.
 
 I have been working with Cloud and JavaScript (**Mobile**, **Frontend**, **Backend**) technologies for the past **9** years.
 I'm hands-on coding currently on,
@@ -21,7 +21,7 @@ I'm hands-on coding currently on,
 and of course,
 
 - **AWS** (API Gateway, Lambda, S3, DynamoDB, CloudFront, CloudWatch, Amplify, AWS-SAM)
-- **AppCenter** / **Azure DevOps** / **GitLab CI-CD** / **Github Actions**
+- **AppCenter** / **Azure DevOps** / **GitLab CI-CD** / **Github Actions** / **Jenkins**
 - **Firebase**
 - **DigitalOcean Cloud** (Linux - Droplets, Horizontal Scaling, Load Balancing, Nginx, Firewalls, DNS)
 - **Figma** (Design & Prototype Tool)
