@@ -1,13 +1,13 @@
 ![Hey there, I'm Ali. I'm a software developer](https://github.com/alikadir/alikadir/blob/main/js.png)
 
-I have 19 years of experience in software development, working in roles such as;
+I have **19 years** of experience in software development, working in roles such as;
  
  - Technical Lead
  - Software Architect
  - Team Lead for Frontend / Mobile / Backend
  - DevOps / Cloud Engineer 
  
-For the last 11 years, I’ve been focused on Cloud/DevOps and JavaScript (Mobile, Frontend, Backend) technologies, actively coding with;
+For the last **11 years**, I’ve been focused on Cloud/DevOps and JavaScript _(Mobile, Frontend, Backend)_ technologies, actively coding with;
  
  - React, Redux, React Native
  - Next.js, NestJS, Node.js
@@ -22,7 +22,7 @@ Cloud and CI/CD tools I regularly work with include;
  - Jenkins, GitHub Actions, GitLab CI, Azure DevOps, AppCenter
  - Figma for UI/UX Design System Components 
 
-I also have over 7 years of experience with;
+I also have **over 7 years** of experience with;
 
  - C#, TypeScript,
  - MS SQL Server, Entity Framework,
