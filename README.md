@@ -28,8 +28,8 @@ I also have **over 7 years** of experience with;
  - MS SQL Server, Entity Framework,
  - DotNET Core and ASP.NET MVC.
 
-As a hobby, I'm passionate about IoT, 3D Printing, Battery with 18650, Embedded Programming (C/C++) and MicroController such as STM32 (F1--/F4--), RP2040 / RP2350, ESP32 / ESP8266, ATmega328, and ATTiny85. 
-I enjoy working with UART, SPI, I2C protocols and analyzing signals using a Logic Analyzer and Oscilloscope.
+As a hobby, I’m passionate about IoT, 3D printing, mechanical gears, batteries using 18650 cells, electronics (especially transistors), and embedded programming (C/C++) I enjoy working with microcontrollers such as STM32 (F1/F4/H5 series), RP2040/RP2350, ESP32/ESP8266, ATmega328. I also like working with UART, SPI, and I²C protocols, and analyzing signals using a logic analyzer and an oscilloscope.
+
 ## ☕️ How to reach me
 
 You can find and get in touch with me on below accounts!
